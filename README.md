@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **lan.meglic@gmail.com**
+- 📫 How to reach me **unavailable contact me on Instagram**
 
 - ⚡ Fun fact **I like drones**
 
