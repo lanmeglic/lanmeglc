@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lan</h1>
-<h3 align="center">Python, CyberSecurity Best</h3>
+<h3 align="center">Python, CyberSecurity is the Best</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanmeglc&label=Profile%20views&color=0e75b6&style=flat" alt="lanmeglc" /> </p>
 
